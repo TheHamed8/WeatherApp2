@@ -4,3 +4,4 @@
 ![Screenshot_20240301_172651](https://github.com/TheHamed8/WeatherApp2/assets/96427408/c57456b4-a79e-4e25-a14c-18a2eb013d33)
 ![Screenshot_20240301_171138](https://github.com/TheHamed8/WeatherApp2/assets/96427408/93853d12-fde2-42ef-8fda-ea9923825c36)
 ![Screenshot_20240301_171058](https://github.com/TheHamed8/WeatherApp2/assets/96427408/2eef0b2e-4b98-44aa-95f9-f9cc4d01ef56)
+![Screenshot_20240301_174315](https://github.com/TheHamed8/WeatherApp2/assets/96427408/9deee0ef-d284-42bf-9021-cdaffb75b31f)
